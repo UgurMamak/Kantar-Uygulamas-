@@ -1,0 +1,169 @@
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar2\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar3\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar5\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar6\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar7\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar9\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\UYGULAMALAR\C#\Kantar12\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\161307036_UgurMamak\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.exe.config
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\Kantar.pdb
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\MaterialSkin.dll
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.Design.dll
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.dll
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csprojAssemblyReference.cache
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.ResolveComReference.cache
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.FmAnaSayfa.resources
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.FmGiris.resources
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.Properties.Resources.resources
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.GenerateResource.cache
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.CoreCompileInputs.cache
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.csproj.CopyComplete
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.exe
+C:\Users\UĞUR\Desktop\Kantar Uygulaması C#\Kantar\obj\Debug\Kantar.pdb
